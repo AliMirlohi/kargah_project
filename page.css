@@ -1,0 +1,12 @@
+@font-face {
+    font-family: vazir;
+    src: url(Vazir.woff2) format(woff2);
+ }
+body{
+    font-family: vazir;
+    background-color: rgba(19, 16, 16, 0.534)
+}
+#about{
+    font-size: 18px;
+    color: rgba(0, 255, 213, 0.842);
+}
